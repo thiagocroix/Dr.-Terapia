@@ -1,0 +1,125 @@
+body {
+  background-color: #dbfefe;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#bg1 {
+  width: 100%;
+  height: 101%;
+}
+
+#logo1 {
+  position: absolute;
+  margin-top: -74%;
+  margin-left: 1%;
+}
+
+#texto1 {
+  font-size: 30pt;
+  color: #FFFFFF;
+  position: absolute;
+  margin-top: -57.8%;
+  margin-left: 28.9%;
+}
+
+#texto2 {
+  font-size: 80pt;
+  color: #FFFFFF;
+  position: absolute;
+    margin-top: -50%;
+  margin-left: 15%;
+}
+
+#texto3 {
+  font-size: 30pt;
+  color: #FFFFFF;
+  position: absolute;
+    margin-top: -41%;
+  margin-left: 37%;
+}
+
+#segunda {
+  width: 1366px;
+  height: 768px;
+  margin-left: -9px;
+  background-color: #115a62;
+  margin-top: -2%;
+}
+
+#bg2 {
+  width: 80%;
+  height: 101%;
+  margin-left: 20%;
+}
+
+#bg3 {
+  width: 105%;
+  height: 106%;
+}
+
+#quarta {
+  width: 1250px;
+  height: 768px;
+  margin-right: 3%;
+  margin-left: 3%;
+  margin-top: -1%;
+  background-color: #FFFFFF;
+}
+
+#cartao {
+  margin-top: 51%;
+  margin-left: 11%
+}
+
+#logo4 {
+  position: absolute;
+  margin-bottom: -56%;
+  margin-top: 1%;
+  margin-left: -30%;
+}
+
+#ball4
+{
+  position: absolute;
+  margin-top: -42%;
+  margin-left: 60%;
+  width: 468px;
+}
+
+#ball1
+{
+  position: absolute;
+  margin-top: -128%;
+  margin-left: -1.3%;
+  width: 550px;
+}
+
+#ball2
+{
+  position: absolute;
+  margin-top: -181%;
+  margin-left: -1%;
+  width: 468px;
+}
+
+#ball3
+{
+  position: absolute;
+  margin-top: -81%;
+  margin-left: 35%;
+  width: 400px;
+}
+
+
+#preco
+{
+  font-size: 60pt;
+  color: #black;
+  position: absolute;
+  text-align: center;
+  margin-top: -35%;
+  margin-left: ;
+}
